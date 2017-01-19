@@ -1,0 +1,7 @@
+---
+title: "Best Rides"
+type: "exercise"
+description: "Use input and output to share your favorite rides with friends"
+tags: "io"
+ignore:
+- "best-rides.md"
